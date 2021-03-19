@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_.exe files/chromedriver_win32 (1).zip"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_.exe files/IEDriverServer_x64_3.11.1.zip"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_jar files/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_jar files/sikulixapi.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/sqldeveloper-4.1.3.20.78-no-jre (2).zip"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/poi-bin-3.17-20170915.zip"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Selenium_POI _exe&amp;_jar file/POI Jar files/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
